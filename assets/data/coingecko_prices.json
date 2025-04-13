@@ -1,0 +1,47 @@
+{
+    "litecoin-cash": {
+        "name": "litecoin-cash",
+        "price": 0.00166515,
+        "last_updated": 1743858005.3797486
+    },
+    "veco": {
+        "name": "veco",
+        "price": 0.00099594,
+        "last_updated": 1743858007.266744
+    },
+    "yenten": {
+        "name": "yenten",
+        "price": 0.00073092,
+        "last_updated": 1743858008.4574156
+    },
+    "fsociety": {
+        "name": "fsociety",
+        "price": 6.24e-06,
+        "last_updated": 1743858009.277482
+    },
+    "swamp-coin": {
+        "name": "swamp-coin",
+        "price": 0.00129986,
+        "last_updated": 1743858008.200358
+    },
+    "uraniumx": {
+        "name": "uraniumx",
+        "price": 0.83198237,
+        "last_updated": 1743858003.9989262
+    },
+    "bitoreum": {
+        "name": "bitoreum",
+        "price": 8.2e-07,
+        "last_updated": 1743696001.8474274
+    },
+    "maza": {
+        "name": "maza",
+        "price": 0.00032009,
+        "last_updated": 1743858003.481274
+    },
+    "privcy": {
+        "name": "privcy",
+        "price": 5.575e-05,
+        "last_updated": 1743852602.8742602
+    }
+}

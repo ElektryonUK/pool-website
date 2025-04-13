@@ -1,0 +1,6 @@
+--2025-03-16 04:52:25--  https://eu-central.storage.cloudconvert.com/tasks/7f32300b-3918-4766-8699-86ff95148f77/griffion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving eu-central.storage.cloudconvert.com (eu-central.storage.cloudconvert.com)... 57.129.64.96, 57.129.64.101, 57.129.64.136, ...
+Connecting to eu-central.storage.cloudconvert.com (eu-central.storage.cloudconvert.com)|57.129.64.96|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2025-03-16 04:52:25 ERROR 403: Forbidden.
+

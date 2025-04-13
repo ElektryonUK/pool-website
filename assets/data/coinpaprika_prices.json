@@ -1,0 +1,102 @@
+{
+    "lcc-litecoin-cash": {
+        "name": "Litecoin Cash",
+        "price": 0.00166527,
+        "last_updated": 1743858004.6866002
+    },
+    "fnnc-fennec": {
+        "name": "Fennec",
+        "price": 0.00135853,
+        "last_updated": 1743858005.739191
+    },
+    "kcn-kylacoin": {
+        "name": "Kylacoin",
+        "price": 24.81776332,
+        "last_updated": 1743858006.0945265
+    },
+    "whive-the-whive-protocol": {
+        "name": "The Whive Protocol",
+        "price": 0.0009903,
+        "last_updated": 1743858006.4379408
+    },
+    "mbc-microbitcoin": {
+        "name": "MicroBitcoin",
+        "price": 6.323e-05,
+        "last_updated": 1743856204.6890612
+    },
+    "veco-veco": {
+        "name": "Veco",
+        "price": 0.00226999,
+        "last_updated": 1743858006.95272
+    },
+    "swamp-swamp-coin": {
+        "name": "Swamp Coin",
+        "price": 0.00104753,
+        "last_updated": 1743858007.962685
+    },
+    "gntl-gntl": {
+        "name": "GNTL",
+        "price": 4.605e-05,
+        "last_updated": 1743580808.8270004
+    },
+    "sprx-sprint": {
+        "name": "Sprint",
+        "price": 0.00016006,
+        "last_updated": 1743750006.36305
+    },
+    "sugar-sugarchain": {
+        "name": "Sugarchain",
+        "price": 0.00012763,
+        "last_updated": 1741446002.5279725
+    },
+    "bte-bitweb": {
+        "name": "Bitweb",
+        "price": 0.00016005,
+        "last_updated": 1743858008.6256669
+    },
+    "fsc-fsociety": {
+        "name": "FSOCIETY",
+        "price": 6.37e-06,
+        "last_updated": 1743858008.9632857
+    },
+    "ytn-yenten": {
+        "name": "YENTEN",
+        "price": 0.00073123,
+        "last_updated": 1743858008.3801692
+    },
+    "mrl-morelo": {
+        "name": "Morelo",
+        "price": 1.991e-05,
+        "last_updated": 1743858009.4494164
+    },
+    "urx-uraniumx": {
+        "name": "UraniumX",
+        "price": 0.14767271,
+        "last_updated": 1743442202.7981524
+    },
+    "btrm-bitoreum": {
+        "name": "Bitoreum",
+        "price": 6.97e-06,
+        "last_updated": 1743847202.3386862
+    },
+    "maza-maza": {
+        "name": "MAZA",
+        "price": 0.00032063,
+        "last_updated": 1743858002.9538145
+    },
+    "crnc-crionic": {
+        "name": "Crionic",
+        "price": 6.86e-05,
+        "last_updated": 1742661002.916992
+    },
+    "gold-gold-cash": {
+        "name": "Gold Cash",
+        "price": 0.03298551,
+        "last_updated": 1743858004.1814408
+    },
+    "smt-smartiecoin": {
+        "name": "SmartieCoin",
+        "price": 7.316e-05,
+        "last_updated": 1743858007.7933195
+    }
+}
